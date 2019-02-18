@@ -1,0 +1,27 @@
+table{
+background-color: black ;
+}
+tr,td{
+font-family: comic sains;
+color: white;
+border: 1px solid aqua;
+padding: 5px;
+border-collapse: collapse;
+}
+.profile{
+border: 10px lightblue;
+padding: 20px;
+}
+.tabel{
+position: absolute;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: auto;
+margin-top: auto;
+left: 0;
+right: 0;
+top: 100px;
+bottom: 0;
+}
+
+
